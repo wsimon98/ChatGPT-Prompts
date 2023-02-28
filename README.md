@@ -25,3 +25,5 @@ The prompts in this repository are provided for educational and entertainment pu
 ## License
 
 The prompts in this repository are licensed under the Creative Commons Attribution 4.0 International License.
+
+Much of my inspiration comes from https://github.com/f/awesome-chatgpt-prompts
